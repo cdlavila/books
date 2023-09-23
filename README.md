@@ -1,5 +1,5 @@
 # Books
-Graphql API for a books catalog application created with [Django](https://www.djangoproject.com/), [Graphene](https://graphene-python.org/) and [SQLite](https://www.sqlite.org/index.html).
+GraphQL API for a books catalog application created with [Django](https://www.djangoproject.com/), [Graphene](https://graphene-python.org/) and [SQLite](https://www.sqlite.org/index.html).
 
 It has the following route to access the Graphql endpoints:
 - `GET /graphql` - Graphql endpoints
